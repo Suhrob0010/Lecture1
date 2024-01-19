@@ -1,4 +1,5 @@
 # Lecture1
 
-# 01 Scope and hoisting
-# 03
+# Scope and hoisting
+# 01 Scope
+# 02 Hoisting
